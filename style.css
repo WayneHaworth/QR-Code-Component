@@ -38,8 +38,7 @@ section.qr-container {
 }
 
 section.qr-container img {
-  width: 288px;
-  height: 288px;
+  width: 100%;
   border-radius: 10px;
 }
 
