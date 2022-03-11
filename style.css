@@ -22,7 +22,7 @@ body {
   display: -ms-grid;
   display: grid;
   place-items: center;
-  height: 90vh;
+  height: 100vh;
 }
 
 section.qr-container {
